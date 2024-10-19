@@ -1,6 +1,3 @@
-Sure! Here’s an updated version of the document with a stronger emphasis on the data science elements, including numerical metrics like R² Score, MAE, and hyperparameters. This version provides more quantitative details for the data science part.
-
----
 
 # MERN Stack Real Estate ML App
 
