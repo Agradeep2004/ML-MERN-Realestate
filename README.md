@@ -1,4 +1,3 @@
-
 # MERN Stack Real Estate ML App
 
 ![MERN Stack Real Estate ML App Workflow](https://github.com/dipanjanpathak/Master_ML-MERN-Realestate/blob/master/Website/frontend/src/Images/prediction%20workflow.png?raw=true)
