@@ -1,6 +1,5 @@
 # MERN Stack Real Estate ML App
 
-![MERN Stack Real Estate ML App Workflow](https://github.com/dipanjanpathak/Master_ML-MERN-Realestate/blob/master/Website/frontend/src/Images/prediction%20workflow.png?raw=true)
 
 This repository contains a **MERN Stack Real Estate Machine Learning Application** that predicts real estate prices and provides property recommendations. The app integrates **Machine Learning** models with a robust **backend** and a **React** frontend, delivering predictions and recommendations based on user input and data from the database.
 
@@ -115,65 +114,7 @@ The **Data Science** portion of this project is focused on predicting property p
 - **Similarity Measures**: Recommendations are made based on similarity in features such as `area`, `BHK`, and `price`.
 
 
----
-
-## Installation
-
-To get started with this project, follow the steps below:
-
-### Prerequisites
-
-- Node.js (v14+)
-- MongoDB
-- Python (v3.8+)
-- Django (v3+)
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/dipanjanpathak/Master_ML-MERN-Realestate.git
-   cd Master_ML-MERN-Realestate/Website
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   npm install
-   cd backend
-   npm install
-   cd ..
-   cd frontend
-   npm install
-   cd ..
-   cd ml
-   pip install -r requirements.txt
-   ```
-
-3. Set up the MongoDB database:
-   - Ensure MongoDB is running locally or via a cloud service (e.g., MongoDB Atlas).
-   - Configure the database URI in the backend settings.
-
-4. Start the app from the root:
-   ```bash
-   npm run dev
-   ```
-
----
-
-## Usage
-
-Once installed and running, you can access the app at `http://localhost:3000`. Use the form on the frontend to input property queries, receive predicted prices, and explore recommended properties.
-
----
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or want to report a bug, feel free to submit an issue or open a pull request.
 
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
